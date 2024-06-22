@@ -9,14 +9,23 @@ git pull:
 git checkout:
 hola
 git log:
-
+dfsdfsdf
 git branch:
 
 git add:
-
+fdsfsfds
 git commit:
 hola
 git push:
 
 git merge:
-hola
+holadfdsfdfsf
+f
+dsf
+sd
+f
+sdf
+sd
+fs
+df
+sd
